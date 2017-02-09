@@ -1,5 +1,7 @@
 # ember-fastboot-app-tests
 
+[![Build Status](https://travis-ci.org/kaliber5/ember-fastboot-app-tests.svg?branch=master)](https://travis-ci.org/kaliber5/ember-fastboot-app-tests)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
