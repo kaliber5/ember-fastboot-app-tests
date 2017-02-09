@@ -5,7 +5,7 @@
 This is an `ember-cli` addon that makes testing your own addon for compatibility with [FastBoot](https://ember-fastboot.com/) easy and straightforward!
 
 It works by spinning up a local FastBoot server using [ember-cli-fastboot](https://github.com/ember-fastboot/ember-cli-fastboot),
-and then runs your [Mocha](https://mochajs.org/)-based end-to-end test to assert that your app works as expected in a FastBoot environment.
+and then runs your [Mocha](https://mochajs.org/)-based end-to-end tests to assert that your app works as expected in a FastBoot environment.
 
 ## Installation
 
@@ -88,7 +88,7 @@ kind of faked DOM is available that jQuery can operate upon. So you can express 
 
 ## Adding tests
 
-Besides the already generated test file for you `index` route, dding a new route is easy:
+Besides the already generated test file for you `index` route, adding a new route is easy:
 
     ember g fastboot-test foo
 
