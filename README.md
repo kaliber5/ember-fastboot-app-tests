@@ -2,10 +2,12 @@
 
 [![Build Status](https://travis-ci.org/kaliber5/ember-fastboot-app-tests.svg?branch=master)](https://travis-ci.org/kaliber5/ember-fastboot-app-tests)
 
-This is an `ember-cli` addon that makes testing your own addon for compatibility with [FastBoot](https://ember-fastboot.com/) easy and straightforward!
+This is an `ember-cli` addon that makes writing [FastBoot](https://ember-fastboot.com/) tests for your Ember app easy and straightforward!
 
 It works by spinning up a local FastBoot server using [ember-cli-fastboot](https://github.com/ember-fastboot/ember-cli-fastboot),
 and then runs your [Mocha](https://mochajs.org/)-based end-to-end tests to assert that your app works as expected in a FastBoot environment.
+
+Note that this is for Ember *apps* only. For testing *addons* you can use this related project: [ember-fastboot-addon-tests](https://github.com/kaliber5/ember-fastboot-addon-tests).
 
 ## Installation
 
