@@ -14,4 +14,4 @@
 bower.json
 ember-cli-build.js
 testem.js
-.idea
+.ideanode-tests/
