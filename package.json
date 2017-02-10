@@ -1,6 +1,6 @@
 {
   "name": "ember-fastboot-app-tests",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "FastBoot testing support for Ember apps",
   "keywords": [
     "ember-addon",
