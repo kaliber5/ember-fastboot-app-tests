@@ -20,4 +20,14 @@ describe('Acceptance: ember generate and destroy ember-fastboot-addon-tests', fu
           .to.contain('return this.visit(\'/foo\')');
       }));
   });
+
+  it('fastboot-test foo/bar', function() {
+    let args = ['fastboot-test', 'foo/bar'];
+
+    return emberNew()
+      .then(() => emberGenerateDestroy(args, (file) => {
+        expect(file('fastboot-tests/foo/bar-test.js'))
+          .to.contain('return this.visit(\'/foo/bar\')');
+      }));
+  });
 });
