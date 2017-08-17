@@ -1,5 +1,6 @@
 # ember-fastboot-app-tests
 
+[![npm version](https://badge.fury.io/js/ember-fastboot-app-tests.svg)](https://badge.fury.io/js/ember-fastboot-app-tests)
 [![Build Status](https://travis-ci.org/kaliber5/ember-fastboot-app-tests.svg?branch=master)](https://travis-ci.org/kaliber5/ember-fastboot-app-tests)
 [![Ember Observer Score](https://emberobserver.com/badges/ember-fastboot-app-tests.svg)](https://emberobserver.com/addons/ember-fastboot-app-tests)
 
