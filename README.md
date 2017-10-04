@@ -1,10 +1,9 @@
 # ember-fastboot-app-tests
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/kaliber5/ember-fastboot-app-tests.svg)](https://greenkeeper.io/)
-
 [![npm version](https://badge.fury.io/js/ember-fastboot-app-tests.svg)](https://badge.fury.io/js/ember-fastboot-app-tests)
 [![Build Status](https://travis-ci.org/kaliber5/ember-fastboot-app-tests.svg?branch=master)](https://travis-ci.org/kaliber5/ember-fastboot-app-tests)
 [![Ember Observer Score](https://emberobserver.com/badges/ember-fastboot-app-tests.svg)](https://emberobserver.com/addons/ember-fastboot-app-tests)
+[![Greenkeeper badge](https://badges.greenkeeper.io/kaliber5/ember-fastboot-app-tests.svg)](https://greenkeeper.io/)
 
 This is an `ember-cli` addon that makes writing [FastBoot](https://ember-fastboot.com/) tests for your Ember app easy and straightforward!
 
@@ -16,8 +15,6 @@ Note that this is for Ember *apps* only. For testing *addons* you can use this r
 ## Installation
 
     ember install ember-fastboot-app-tests
-
-Note that this addon needs at least node.js 4.x (mainly because of FastBoot itself).
 
 After installing the addon you should find a new folder `fastboot-tests` which will hold your test files. The default
 blueprint will have installed a first simple test to start with.
