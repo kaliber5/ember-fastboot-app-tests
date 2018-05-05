@@ -21,3 +21,4 @@ install:
 script:
   - yarn run lint:js
   - yarn run nodetest
+  - yarn run fastboottest
