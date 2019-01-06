@@ -27,7 +27,7 @@
     "fastboottest": "DEBUG=ember-fastboot-addon-tests,ember-cli-addon-tests ember fastboot:test"
   },
   "dependencies": {
-    "chalk": "^2.1.0",
+    "chalk": "^2.4.2",
     "core-object": "^3.1.5",
     "debug": "^3.1.0",
     "ember-cli-addon-tests": "^0.11.0",
